@@ -1,3 +1,3 @@
 # python
-this is my git repository.
-author- biplab mondal
+This is my git repository.
+Author- biplab mondal
