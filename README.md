@@ -1,3 +1,3 @@
 # python
 This is my git repository.
-Author- biplab mondal
+Author- Biplab mondal
